@@ -64,10 +64,9 @@ Set up professional profiles on the following platforms:
 
 | Platform | Profile Link |  
 | GitHub | [github.com | 
-(https://github.com/tejojsharma) )  
-| LinkedIn | https://www.linkedin.com/in/ojas-sharma-a8ba49394?utm\_source=share\_via\&utm\_content=profile\&utm_medium=member_android|  
-| KAGGLE   
- | Kaggle](https://www.kaggle.com/ojassharma25bcy10036)
+(https://github.com/sohanpanda313) )  
+| LinkedIn |https://www.linkedin.com/in/sohan-panda-751949391/|
+ | Kaggle]https://www.kaggle.com/sohanpa123)
 
 \---
 
